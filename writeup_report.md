@@ -68,6 +68,6 @@ Image preprocessing is done in the function `input.train_batch_generator()` whos
 
 
 ###Result
-[![png](images\track_1.png)](https://www.youtube.com/watch?v=ud4JqEngY0Y&t=1s)
+[ ! [png] (images\track_1.png)](https://www.youtube.com/watch?v=ud4JqEngY0Y&t=1s)
 
-[![png](images\track_2.png)](https://www.youtube.com/watch?v=bPFmJ_luTBU)
+[ ! [png] (images\track_2.png)](https://www.youtube.com/watch?v=bPFmJ_luTBU)
