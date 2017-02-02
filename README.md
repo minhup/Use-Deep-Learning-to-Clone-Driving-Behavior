@@ -28,6 +28,10 @@ python drive.py model.h5
 ```
 
 ###Result
-[![](.\images\track_1.png)](https://youtu.be/ud4JqEngY0Y)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ud4JqEngY0Y&t=4s
+" target="_blank"><img src=".\images\track_1.png"
+alt="Video Track 1" width="480" height="360" border="1" /></a>
 
-[![](.\images\track_2.png)](https://youtu.be/bPFmJ_luTBU)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bPFmJ_luTBU
+" target="_blank"><img src=".\images\track_2.png"
+alt="Video Track 2" width="480" height="360" border="1" /></a>
