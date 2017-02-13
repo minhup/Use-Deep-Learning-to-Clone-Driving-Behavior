@@ -82,7 +82,7 @@ if __name__ == '__main__':
     checkpointer = ModelCheckpoint('checkpoints/weights.{epoch:02d}-{val_loss:.3f}.h5')
     logger = CSVLogger(filename='checkpoints/history.csv')
 
-    model_.fit_generator(generator=flip_three_frame_generator(train_data, data_augmentation = True),
+    model_.fit_generator(generator=train_batch_generator(train_data, data_augmentation = True),
                             samples_per_epoch=100*batch_size,
                             nb_epoch=100,
                             validation_data=train_batch_generator(val_data, data_augmentation = False),
